@@ -3,12 +3,12 @@
 Creats cards for the game "Werewolf".
 
 <p>
-<img src="images/Werewolf.svg" alt="Werewolf Card" width=49%>
-<img src="images/Villager.svg" alt="Werewolf Card" width=49%>
+<img src="output/Werewolf.svg" alt="Werewolf Card" width=49%>
+<img src="output/Villager.svg" alt="Werewolf Card" width=49%>
 </p>
 
 ## Usage
 
 ```txt
-python main.py "PATH_TO_IMAGE" "COLOR" "NAME" POWER
+python main.py "NAME" "COLOR" POWER
 ```
