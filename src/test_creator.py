@@ -1,6 +1,6 @@
 import pytest
 
-from src import creator
+import creator
 
 
 def test_success():
