@@ -9,6 +9,12 @@ Creats cards for the game "Werewolf".
 
 ## Usage
 
-```txt
-python main.py "NAME" "COLOR" POWER
+You can use it with python or ruby.
+
+```bash
+python main.py "NAME" "COLOR" "POWER"
+```
+
+```bash
+ruby main.rb --name "NAME" --color "COLOR" --power "POWER"
 ```
